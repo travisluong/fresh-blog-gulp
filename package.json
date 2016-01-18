@@ -1,0 +1,28 @@
+{
+  "name": "fresh-blog-gulp",
+  "version": "1.0.0",
+  "description": "Tips and Tricks for organizing your gulp builds for multiple environments",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/travisluong/fresh-blog-gulp.git"
+  },
+  "author": "Travis Luong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/travisluong/fresh-blog-gulp/issues"
+  },
+  "homepage": "https://github.com/travisluong/fresh-blog-gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.0.0",
+    "require-dir": "^0.3.0"
+  }
+}
